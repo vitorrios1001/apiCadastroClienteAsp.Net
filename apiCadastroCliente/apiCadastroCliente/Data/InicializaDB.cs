@@ -20,22 +20,11 @@ namespace apiCadastroCliente.Data
                 new ClienteModel
                 {
                     ID = 1,
-                    Nome = "Vitor Rios",
+                    Nome = "Vitor",
                     CEP = "75400000",
                     Endereco = "Rua 02",
-                    Bairro = "Nipo",
-                    Cidade = "Inhumas",
-                    Uf = "GO",
-                    Status = true
-                },
-                new ClienteModel
-                {
-                    ID = 2,
-                    Nome = "Rayza",
-                    CEP = "75400000",
-                    Endereco = "Rua 02",
-                    Bairro = "Nipo",
-                    Cidade = "Inhumas",
+                    Bairro = "Japao",
+                    Cidade = "Goiania",
                     Uf = "GO",
                     Status = true
                 }

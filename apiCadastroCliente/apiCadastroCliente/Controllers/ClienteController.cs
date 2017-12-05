@@ -17,7 +17,7 @@ namespace apiCadastroCliente.Controllers
         
         private ClienteContexto clienteContexto;
         
-        // GET api/cliente
+        // GET api/cliente/ListaClientes
         [Route("ListaClientes")]
         [HttpGet]
         public IEnumerable<ClienteModel> ListaClientes()
@@ -28,7 +28,7 @@ namespace apiCadastroCliente.Controllers
             }  
         }
 
-        // GET api/cliente/5
+        // GET api/cliente/id/5
         [Route("Id")]
         [HttpGet("Id/{id}")]
         public ClienteModel Id(int id)
@@ -40,51 +40,71 @@ namespace apiCadastroCliente.Controllers
             return c;
         }
 
-        // POST api/cliente
+        // POST api/cliente/Novo
         [Route("Novo")]
         [HttpPost]
-        public void Novo([FromBody] string value)
+        public ClienteModel Novo([FromBody] ClienteModel cliente)
         {
-            var c = value;
-
-        }
-
-        // PUT api/cliente/5
-        [Route("Update")]
-        [HttpPut("Update/{id}")]
-        public bool Update(int id,[FromBody] ClienteModel cliente)
-        {
-
-            //var cliente = (JsonObject<ClienteModel>) value;
+            var c = new ClienteModel();
             
-            //var c = FiltraCliente(cliente.Object.ID).First();
-            /*
             if (ModelState.IsValid)
             {
                 using (var ctx = new ClienteContexto())
                 {
-                    c.Nome = cliente.Object.Nome;
-                    c.Bairro = cliente.Object.Bairro;
-                    c.CEP = cliente.Object.CEP;
-                    c.Cidade = cliente.Object.Cidade;
-                    c.Endereco = cliente.Object.Endereco;
-                    c.Status = cliente.Object.Status;
-                    c.Uf = cliente.Object.Uf;
+                    c.Nome = cliente.Nome;
+                    c.Bairro = cliente.Bairro;
+                    c.CEP = cliente.CEP;
+                    c.Cidade = cliente.Cidade;
+                    c.Endereco = cliente.Endereco;
+                    c.Status = cliente.Status;
+                    c.Uf = cliente.Uf;
                     
 
                     ctx.Clientes.Update(c);
                     ctx.SaveChangesAsync();
-
+                    return c;
                 }
-                return true;
+                
             }
-            */
-            return true;
-            
+            return c;
+
         }
 
-        // DELETE api/cliente/5
-        [HttpDelete("{id}")]
+        // PUT api/cliente/Update/5
+        [Route("Update")]
+        [HttpPut("Update/{id}")]
+        public ClienteModel Update(int id,[FromBody] ClienteModel cliente)
+        {
+            
+            var c = FiltraCliente(id).First();
+            
+            if (ModelState.IsValid)
+            {
+                using (var ctx = new ClienteContexto())
+                {
+                    c.Nome = cliente.Nome;
+                    c.Bairro = cliente.Bairro;
+                    c.CEP = cliente.CEP;
+                    c.Cidade = cliente.Cidade;
+                    c.Endereco = cliente.Endereco;
+                    c.Status = cliente.Status;
+                    c.Uf = cliente.Uf;
+                    
+
+                    ctx.Clientes.Update(c);
+                    ctx.SaveChangesAsync();
+                    return c;
+                }
+                
+            }
+            return c;
+
+
+        }
+
+        // DELETE api/cliente/Delete/5
+        [Route("Delete")]
+        [HttpDelete("delete/{id}")]
         public bool Delete(int id)
         {   
             
