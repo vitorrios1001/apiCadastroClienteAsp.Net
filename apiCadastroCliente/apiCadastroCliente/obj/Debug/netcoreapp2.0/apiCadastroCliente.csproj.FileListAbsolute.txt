@@ -1,0 +1,10 @@
+/home/vitor/projetosDosGit/apiCadastroClienteAsp.Net/apiCadastroCliente/apiCadastroCliente/bin/Debug/netcoreapp2.0/apiCadastroCliente.deps.json
+/home/vitor/projetosDosGit/apiCadastroClienteAsp.Net/apiCadastroCliente/apiCadastroCliente/bin/Debug/netcoreapp2.0/apiCadastroCliente.runtimeconfig.json
+/home/vitor/projetosDosGit/apiCadastroClienteAsp.Net/apiCadastroCliente/apiCadastroCliente/bin/Debug/netcoreapp2.0/apiCadastroCliente.runtimeconfig.dev.json
+/home/vitor/projetosDosGit/apiCadastroClienteAsp.Net/apiCadastroCliente/apiCadastroCliente/bin/Debug/netcoreapp2.0/apiCadastroCliente.dll
+/home/vitor/projetosDosGit/apiCadastroClienteAsp.Net/apiCadastroCliente/apiCadastroCliente/bin/Debug/netcoreapp2.0/apiCadastroCliente.pdb
+/home/vitor/projetosDosGit/apiCadastroClienteAsp.Net/apiCadastroCliente/apiCadastroCliente/obj/Debug/netcoreapp2.0/apiCadastroCliente.csproj.CoreCompileInputs.cache
+/home/vitor/projetosDosGit/apiCadastroClienteAsp.Net/apiCadastroCliente/apiCadastroCliente/obj/Debug/netcoreapp2.0/apiCadastroCliente.AssemblyInfoInputs.cache
+/home/vitor/projetosDosGit/apiCadastroClienteAsp.Net/apiCadastroCliente/apiCadastroCliente/obj/Debug/netcoreapp2.0/apiCadastroCliente.AssemblyInfo.cs
+/home/vitor/projetosDosGit/apiCadastroClienteAsp.Net/apiCadastroCliente/apiCadastroCliente/obj/Debug/netcoreapp2.0/apiCadastroCliente.dll
+/home/vitor/projetosDosGit/apiCadastroClienteAsp.Net/apiCadastroCliente/apiCadastroCliente/obj/Debug/netcoreapp2.0/apiCadastroCliente.pdb

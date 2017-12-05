@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c0c91fa4-f606-443d-9b76-4d3002da7735" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="ValuesController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apiCadastroCliente/Controllers/ValuesController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="9" column="46" lean-forward="false" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="46" />
+              <folding>
+                <marker date="1512418030901" expanded="false" signature="6:128" ph="..." />
+                <marker date="1512418030901" expanded="true" signature="251:924" ph="{...}" />
+                <marker date="1512418030901" expanded="true" signature="342:416" ph="{...}" />
+                <marker date="1512418030901" expanded="true" signature="505:553" ph="{...}" />
+                <marker date="1512418030901" expanded="true" signature="650:670" ph="{...}" />
+                <marker date="1512418030901" expanded="true" signature="782:802" ph="{...}" />
+                <marker date="1512418030901" expanded="true" signature="898:918" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ClienteController.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/apiCadastroCliente/Controllers/ClienteController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="46" column="9" lean-forward="true" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
+              <folding>
+                <marker date="1512442751296" expanded="true" signature="6:309" ph="..." />
+                <marker date="1512442751296" expanded="true" signature="351:2926" ph="{...}" />
+                <marker date="1512442751296" expanded="true" signature="433:2924" ph="{...}" />
+                <marker date="1512442751296" expanded="true" signature="641:790" ph="{...}" />
+                <marker date="1512442751296" expanded="true" signature="703:778" ph="{...}" />
+                <marker date="1512442751296" expanded="true" signature="910:1040" ph="{...}" />
+                <marker date="1512442751296" expanded="true" signature="1162:1210" ph="{...}" />
+                <marker date="1512442751296" expanded="true" signature="1366:2254" ph="{...}" />
+                <marker date="1512442751296" expanded="true" signature="1390:1516" ph="/* var cliente = (JsonObject&lt;ClienteModel&gt;) value; ... */" />
+                <marker date="1512442751296" expanded="true" signature="1529:2206" ph="/* if (ModelState.IsValid) ... */" />
+                <marker date="1512442751296" expanded="true" signature="2351:2645" ph="{...}" />
+                <marker date="1512442751296" expanded="true" signature="2489:2597" ph="{...}" />
+                <marker date="1512442751296" expanded="true" signature="2717:2900" ph="{...}" />
+                <marker date="1512442751296" expanded="true" signature="2779:2876" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ClienteModel.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apiCadastroCliente/Models/ClienteModel.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="29" lean-forward="false" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+              <folding>
+                <marker date="1512433015247" expanded="true" signature="113:1054" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ClienteContexto.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apiCadastroCliente/Data/ClienteContexto.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" column="47" lean-forward="false" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
+              <folding>
+                <marker date="1512433015379" expanded="true" signature="6:69" ph="..." />
+                <marker date="1512433015379" expanded="true" signature="151:1075" ph="{...}" />
+                <marker date="1512433015379" expanded="true" signature="199:232" ph="{...}" />
+                <marker date="1512433015379" expanded="true" signature="331:351" ph="{...}" />
+                <marker date="1512433015379" expanded="true" signature="486:630" ph="{...}" />
+                <marker date="1512433015379" expanded="true" signature="803:1051" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InicializaDB.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apiCadastroCliente/Data/InicializaDB.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="28" column="33" lean-forward="false" selection-start-line="21" selection-start-column="20" selection-end-line="28" selection-end-column="33" />
+              <folding>
+                <marker date="1512433015519" expanded="true" signature="6:51" ph="..." />
+                <marker date="1512433015519" expanded="true" signature="118:1428" ph="{...}" />
+                <marker date="1512433015519" expanded="true" signature="187:1359" ph="{...}" />
+                <marker date="1512433015519" expanded="true" signature="297:351" ph="{...}" />
+                <marker date="1512433015519" expanded="true" signature="423:1152" ph="{...}" />
+                <marker date="1512433015519" expanded="true" signature="474:783" ph="{...}" />
+                <marker date="1512433015519" expanded="true" signature="834:1138" ph="{...}" />
+                <marker date="1512433015519" expanded="true" signature="1212:1287" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/apiCadastroCliente/Models/ClienteModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/apiCadastroCliente/Data/ClienteContexto.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/apiCadastroCliente/Controllers/ValuesController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/apiCadastroCliente/Data/InicializaDB.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/apiCadastroCliente/Controllers/ClienteController.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/apiCadastroCliente/Models/CLienteModel.cs" />
+        <option value="$PROJECT_DIR$/apiCadastroCliente/Models/ClienteModel.cs" />
+        <option value="$PROJECT_DIR$/apiCadastroCliente/Data/ClienteContexto.cs" />
+        <option value="$PROJECT_DIR$/apiCadastroCliente/Data/InicializaDB.cs" />
+        <option value="$PROJECT_DIR$/apiCadastroCliente/Controllers/ClienteController.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1756" />
+    <option name="y" value="279" />
+    <option name="width" value="1319" />
+    <option name="height" value="754" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="apiCadastroCliente (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="apiCadastroCliente (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="apiCadastroCliente" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="RiderNuGetOptionsPageId" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.Default">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/apiCadastroCliente/bin/Debug/netcoreapp2.0/apiCadastroCliente.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/apiCadastroCliente" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/apiCadastroCliente/apiCadastroCliente.csproj" />
+      <option name="PROJECT_OUTPUT_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.0" />
+      <browser url="http://localhost:5000" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0c91fa4-f606-443d-9b76-4d3002da7735" name="Default" comment="" />
+      <created>1512418010865</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1512418010865</updated>
+      <workItem from="1512418012434" duration="2034000" />
+      <workItem from="1512433000137" duration="9552000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="11586000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1421" y="0" width="1865" height="1080" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.50187665" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32994923" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15067025" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32994923" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31167513" sideWeight="0.49812332" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/apiCadastroCliente/Controllers/ClienteController.cs</url>
+          <line>88</line>
+          <properties documentPath="$PROJECT_DIR$/apiCadastroCliente/Controllers/ClienteController.cs">
+            <startOffsets>
+              <startOffset value="2360" />
+            </startOffsets>
+            <endOffsets>
+              <endOffset value="2361" />
+            </endOffsets>
+          </properties>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/apiCadastroCliente/Controllers/ClienteController.cs</url>
+          <line>46</line>
+          <properties documentPath="$PROJECT_DIR$/apiCadastroCliente/Controllers/ClienteController.cs">
+            <startOffsets>
+              <startOffset value="1171" />
+            </startOffsets>
+            <endOffsets>
+              <endOffset value="1172" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/apiCadastroCliente/Controllers/ClienteController.cs</url>
+          <line>55</line>
+          <properties documentPath="$PROJECT_DIR$/apiCadastroCliente/Controllers/ClienteController.cs">
+            <startOffsets>
+              <startOffset value="1375" />
+            </startOffsets>
+            <endOffsets>
+              <endOffset value="1376" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="5" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/apiCadastroCliente/Controllers/ValuesController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="9" column="46" lean-forward="false" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="46" />
+          <folding>
+            <marker date="1512418030901" expanded="false" signature="6:128" ph="..." />
+            <marker date="1512418030901" expanded="true" signature="251:924" ph="{...}" />
+            <marker date="1512418030901" expanded="true" signature="342:416" ph="{...}" />
+            <marker date="1512418030901" expanded="true" signature="505:553" ph="{...}" />
+            <marker date="1512418030901" expanded="true" signature="650:670" ph="{...}" />
+            <marker date="1512418030901" expanded="true" signature="782:802" ph="{...}" />
+            <marker date="1512418030901" expanded="true" signature="898:918" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apiCadastroCliente/Models/ClienteModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="29" lean-forward="false" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+          <folding>
+            <marker date="1512433015247" expanded="true" signature="113:1054" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apiCadastroCliente/Data/ClienteContexto.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="47" lean-forward="false" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
+          <folding>
+            <marker date="1512433015379" expanded="true" signature="6:69" ph="..." />
+            <marker date="1512433015379" expanded="true" signature="151:1075" ph="{...}" />
+            <marker date="1512433015379" expanded="true" signature="199:232" ph="{...}" />
+            <marker date="1512433015379" expanded="true" signature="331:351" ph="{...}" />
+            <marker date="1512433015379" expanded="true" signature="486:630" ph="{...}" />
+            <marker date="1512433015379" expanded="true" signature="803:1051" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apiCadastroCliente/Data/InicializaDB.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="33" lean-forward="false" selection-start-line="21" selection-start-column="20" selection-end-line="28" selection-end-column="33" />
+          <folding>
+            <marker date="1512433015519" expanded="true" signature="6:51" ph="..." />
+            <marker date="1512433015519" expanded="true" signature="118:1428" ph="{...}" />
+            <marker date="1512433015519" expanded="true" signature="187:1359" ph="{...}" />
+            <marker date="1512433015519" expanded="true" signature="297:351" ph="{...}" />
+            <marker date="1512433015519" expanded="true" signature="423:1152" ph="{...}" />
+            <marker date="1512433015519" expanded="true" signature="474:783" ph="{...}" />
+            <marker date="1512433015519" expanded="true" signature="834:1138" ph="{...}" />
+            <marker date="1512433015519" expanded="true" signature="1212:1287" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apiCadastroCliente/Controllers/ClienteController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="13" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+          <folding>
+            <marker date="1512442751296" expanded="true" signature="6:309" ph="..." />
+            <marker date="1512442751296" expanded="true" signature="351:2926" ph="{...}" />
+            <marker date="1512442751296" expanded="true" signature="433:2924" ph="{...}" />
+            <marker date="1512442751296" expanded="true" signature="641:790" ph="{...}" />
+            <marker date="1512442751296" expanded="true" signature="703:778" ph="{...}" />
+            <marker date="1512442751296" expanded="true" signature="910:1040" ph="{...}" />
+            <marker date="1512442751296" expanded="true" signature="1162:1210" ph="{...}" />
+            <marker date="1512442751296" expanded="true" signature="1366:2254" ph="{...}" />
+            <marker date="1512442751296" expanded="true" signature="1390:1516" ph="/* var cliente = (JsonObject&lt;ClienteModel&gt;) value; ... */" />
+            <marker date="1512442751296" expanded="true" signature="1529:2206" ph="/* if (ModelState.IsValid) ... */" />
+            <marker date="1512442751296" expanded="true" signature="2351:2645" ph="{...}" />
+            <marker date="1512442751296" expanded="true" signature="2489:2597" ph="{...}" />
+            <marker date="1512442751296" expanded="true" signature="2717:2900" ph="{...}" />
+            <marker date="1512442751296" expanded="true" signature="2779:2876" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apiCadastroCliente/Controllers/ValuesController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="9" column="46" lean-forward="false" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="46" />
+          <folding>
+            <marker date="1512418030901" expanded="false" signature="6:128" ph="..." />
+            <marker date="1512418030901" expanded="true" signature="251:924" ph="{...}" />
+            <marker date="1512418030901" expanded="true" signature="342:416" ph="{...}" />
+            <marker date="1512418030901" expanded="true" signature="505:553" ph="{...}" />
+            <marker date="1512418030901" expanded="true" signature="650:670" ph="{...}" />
+            <marker date="1512418030901" expanded="true" signature="782:802" ph="{...}" />
+            <marker date="1512418030901" expanded="true" signature="898:918" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apiCadastroCliente/Data/InicializaDB.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="33" lean-forward="false" selection-start-line="21" selection-start-column="20" selection-end-line="28" selection-end-column="33" />
+          <folding>
+            <marker date="1512433015519" expanded="true" signature="6:51" ph="..." />
+            <marker date="1512433015519" expanded="true" signature="118:1428" ph="{...}" />
+            <marker date="1512433015519" expanded="true" signature="187:1359" ph="{...}" />
+            <marker date="1512433015519" expanded="true" signature="297:351" ph="{...}" />
+            <marker date="1512433015519" expanded="true" signature="423:1152" ph="{...}" />
+            <marker date="1512433015519" expanded="true" signature="474:783" ph="{...}" />
+            <marker date="1512433015519" expanded="true" signature="834:1138" ph="{...}" />
+            <marker date="1512433015519" expanded="true" signature="1212:1287" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apiCadastroCliente/Data/ClienteContexto.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="47" lean-forward="false" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
+          <folding>
+            <marker date="1512433015379" expanded="true" signature="6:69" ph="..." />
+            <marker date="1512433015379" expanded="true" signature="151:1075" ph="{...}" />
+            <marker date="1512433015379" expanded="true" signature="199:232" ph="{...}" />
+            <marker date="1512433015379" expanded="true" signature="331:351" ph="{...}" />
+            <marker date="1512433015379" expanded="true" signature="486:630" ph="{...}" />
+            <marker date="1512433015379" expanded="true" signature="803:1051" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apiCadastroCliente/Models/ClienteModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="29" lean-forward="false" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+          <folding>
+            <marker date="1512433015247" expanded="true" signature="113:1054" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apiCadastroCliente/Controllers/ClienteController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="46" column="9" lean-forward="true" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
+          <folding>
+            <marker date="1512442751296" expanded="true" signature="6:309" ph="..." />
+            <marker date="1512442751296" expanded="true" signature="351:2926" ph="{...}" />
+            <marker date="1512442751296" expanded="true" signature="433:2924" ph="{...}" />
+            <marker date="1512442751296" expanded="true" signature="641:790" ph="{...}" />
+            <marker date="1512442751296" expanded="true" signature="703:778" ph="{...}" />
+            <marker date="1512442751296" expanded="true" signature="910:1040" ph="{...}" />
+            <marker date="1512442751296" expanded="true" signature="1162:1210" ph="{...}" />
+            <marker date="1512442751296" expanded="true" signature="1366:2254" ph="{...}" />
+            <marker date="1512442751296" expanded="true" signature="1390:1516" ph="/* var cliente = (JsonObject&lt;ClienteModel&gt;) value; ... */" />
+            <marker date="1512442751296" expanded="true" signature="1529:2206" ph="/* if (ModelState.IsValid) ... */" />
+            <marker date="1512442751296" expanded="true" signature="2351:2645" ph="{...}" />
+            <marker date="1512442751296" expanded="true" signature="2489:2597" ph="{...}" />
+            <marker date="1512442751296" expanded="true" signature="2717:2900" ph="{...}" />
+            <marker date="1512442751296" expanded="true" signature="2779:2876" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

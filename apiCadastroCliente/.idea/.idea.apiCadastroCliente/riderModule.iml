@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RIDER_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$USER_HOME$/.nuget/packages/mysql.data/6.10.4/contentFiles/any/netstandard1.3/app.config.transform" />
+    <content url="file://$USER_HOME$/.nuget/packages/mysql.data/6.10.4/contentFiles/any/netstandard1.3/docs/MySqlCommand.xml" />
+    <content url="file://$USER_HOME$/.nuget/packages/mysql.data/6.10.4/contentFiles/any/netstandard1.3/docs/MySqlCommandBuilder.xml" />
+    <content url="file://$USER_HOME$/.nuget/packages/mysql.data/6.10.4/contentFiles/any/netstandard1.3/docs/MySqlConnection.xml" />
+    <content url="file://$USER_HOME$/.nuget/packages/mysql.data/6.10.4/contentFiles/any/netstandard1.3/docs/MySqlConnectionStringBuilder.xml" />
+    <content url="file://$USER_HOME$/.nuget/packages/mysql.data/6.10.4/contentFiles/any/netstandard1.3/docs/MySqlDataAdapter.xml" />
+    <content url="file://$USER_HOME$/.nuget/packages/mysql.data/6.10.4/contentFiles/any/netstandard1.3/docs/MySqlDataReader.xml" />
+    <content url="file://$USER_HOME$/.nuget/packages/mysql.data/6.10.4/contentFiles/any/netstandard1.3/docs/MySqlException.xml" />
+    <content url="file://$USER_HOME$/.nuget/packages/mysql.data/6.10.4/contentFiles/any/netstandard1.3/docs/MySqlHelper.xml" />
+    <content url="file://$USER_HOME$/.nuget/packages/mysql.data/6.10.4/contentFiles/any/netstandard1.3/docs/MySqlParameter.xml" />
+    <content url="file://$USER_HOME$/.nuget/packages/mysql.data/6.10.4/contentFiles/any/netstandard1.3/docs/MySqlParameterCollection.xml" />
+    <content url="file://$USER_HOME$/.nuget/packages/mysql.data/6.10.4/contentFiles/any/netstandard1.3/docs/MySqlTransaction.xml" />
+    <content url="file://$USER_HOME$/.nuget/packages/mysql.data/6.10.4/contentFiles/any/netstandard1.3/web.config.transform" />
+    <content url="file://$MODULE_DIR$/../.." />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
